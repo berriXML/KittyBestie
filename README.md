@@ -6,6 +6,8 @@ Please note that this mod is still a work in progress and may continue to have s
 
 This mod requires both a server-side AND client-side download. EAC may be off OR on.
 
+Credit for animalKittyGuard.png goes to user MLARANDA via Pixabay: https://pixabay.com/users/mlaranda-1375673/
+
 -------------------
 Suggestions or issues?
 Email: berrixml@proton.me

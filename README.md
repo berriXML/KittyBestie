@@ -20,4 +20,10 @@ Please consider joining over at Cafe Gaming: https://discord.gg/tVu99UK8uw
 
 Cafe Gaming is an 18+ community for adults who love to game when life allows. We own our own servers and build around what players want - whether that's 7 Days to Die (vanilla with QoL mods or Asylum mod), Palworld, or rotating other games. Come to make friends or just to play surrounded by people who get it. No toxicity, solid performance, good company :)
 
+-------------------
 
+KNOWN ISSUES: 
+
+Item must be unequipped and re-equipped upon login in order to display.
+Item must be unequipped and re-equipped upon respawning after death in order to display.
+-------------------

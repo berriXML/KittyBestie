@@ -1,0 +1,16 @@
+<configs>
+
+	<append xpath="/recipes">
+	
+			<recipe name="modKittyBestieCGM" count="1" craft_area="workbench">
+				<ingredient name="foodRawMeat" count="50"/>
+				<ingredient name="resourceLeather" count="50"/>
+				<ingredient name="resourceBone" count="100"/>
+				<ingredient name="resourceSewingKit" count="25"/>
+				<ingredient name="resourceGlue" count="25"/>
+			</recipe>
+
+
+	</append>
+
+</configs>

@@ -1,0 +1,18 @@
+<configs>
+
+	<append xpath="/Sounds">
+	
+		<SoundDataNode name="KittyBestie_Meow"> 
+			<AudioSource name="@:Sounds/Prefabs/AudioSource_Notifications.prefab"/>
+			<AudioClip ClipName="#@modfolder:Resources/catguard.unity3d?dragonStudio_catMeow"/>
+			<LocalCrouchVolumeScale value="1.0"/> 
+			<CrouchNoiseScale value="0.5"/> 
+			<NoiseScale value="1"/> 
+			<MaxVoices value="10"/> 
+			<MaxRepeatRate value="0.01"/> 
+		</SoundDataNode>
+		
+	</append>
+
+</configs>
+

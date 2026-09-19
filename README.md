@@ -7,6 +7,7 @@ Please note that this mod is still a work in progress and may continue to have s
 This mod requires both a server-side AND client-side download. EAC may be off OR on.
 
 Credit for animalKittyGuard.png goes to user MLARANDA via Pixabay: https://pixabay.com/users/mlaranda-1375673/
+Credit for meowing headshot sounds goes to user DRAGON-STUDIO via Pixabay: https://pixabay.com/users/dragon-studio-38165424/ (Donate: https://ko-fi.com/dragonstudio)
 
 -------------------
 Suggestions or issues?

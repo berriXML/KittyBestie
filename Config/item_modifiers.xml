@@ -27,11 +27,15 @@
 				</effect_group>
 				
 				<effect_group>
-					<triggered_effect trigger="onSelfKilledOther" action="PlaySound" sound="mlionroam" play_in_head="true"/>
-						<requirement name="RandomRoll" seed_type="Random" min_max="0,100" operation="LTE" value="99"/>
+					<triggered_effect trigger="onSelfKilledOther" action="PlaySound" sound="KittyBestie_Meow" play_in_head="true"/>
+						<requirement name="HitLocation" body_parts="Head"/>
+						
 				</effect_group>
 		</item_modifier>
 
 	</append>
 
 </configs>
+<!-- <triggered_effect trigger="onSelfAttackedOther" action="ModifyCVar" target="other" cvar="isHeadshot" operation="set" value="1" /> -->
+
+<!-- <requirement name="RandomRoll" seed_type="Random" min_max="0,100" operation="LTE" value="99"/> -->

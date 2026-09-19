@@ -11,7 +11,7 @@
 			<property name="SellableToTrader" value="false"/>
 				<effect_group tiered="false">
 
-					<triggered_effect trigger="onSelfEquipUpdate" action="AttachPrefabToEntity" prefab="#@modfolder:Resources/catguard.unity3d?animalKittyGuard" parent_transform="Head" local_offset="0,0.1,0.075" local_rotation="0,0,0" local_scale=".53,.53,.53">
+					<triggered_effect trigger="onSelfEquipUpdate" action="AttachPrefabToEntity" prefab="#@modfolder:Resources/catguard.unity3d?animalKittyGuard" parent_transform="Head" local_offset="0,0.1,0.125" local_rotation="-15,0,0" local_scale=".27,.27,.27">
 						<requirement name="IsAlive"/>
 						<requirement name="!IsFPV"/>
 					</triggered_effect>
@@ -24,6 +24,11 @@
 					<triggered_effect trigger="onSelfEquipStop" action="RemovePrefabFromEntity" prefab="animalKittyGuard">
 						<requirement name="IsAlive"/>
 					</triggered_effect>
+				</effect_group>
+				
+				<effect_group>
+					<triggered_effect trigger="onSelfKilledOther" action="PlaySound" sound="mlionroam" play_in_head="true"/>
+						<requirement name="RandomRoll" seed_type="Random" min_max="0,100" operation="LTE" value="99"/>
 				</effect_group>
 		</item_modifier>
 

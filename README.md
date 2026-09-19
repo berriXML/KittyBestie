@@ -24,6 +24,5 @@ Cafe Gaming is an 18+ community for adults who love to game when life allows. We
 
 KNOWN ISSUES: 
 
-Item must be unequipped and re-equipped upon login in order to display.
-Item must be unequipped and re-equipped upon respawning after death in order to display.
+
 -------------------
